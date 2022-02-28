@@ -4,6 +4,7 @@
 * 주최: LG AI Research
 * 주관: Dacon
 * **Private 9th, Score 0.95255**
+* **종합평가 최종 5위**
 ***
 
 ## Structure
