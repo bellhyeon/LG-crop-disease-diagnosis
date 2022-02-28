@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements/requirements.txt
+          pip install -r requirements/requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
 
       - name: run black
         run: |
